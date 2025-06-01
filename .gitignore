@@ -1,0 +1,3 @@
+# Ignore musdb18hq dataset files
+musdb18hq/
+.DS_Store

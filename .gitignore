@@ -1,4 +1,5 @@
 # Ignore musdb18hq dataset files
 musdb18hq/
+musdb18hq_trimmed/
 .DS_Store
 best_model.pth

@@ -1,0 +1,9 @@
+IPython
+torch
+torchaudio
+tqdm
+numpy
+matplotlib
+librosa
+torchmetrics
+norbert

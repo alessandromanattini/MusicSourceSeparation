@@ -1,7 +1,6 @@
 IPython
 torch
 torchaudio
-os
 tqdm
 numpy
 matplotlib

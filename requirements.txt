@@ -6,6 +6,4 @@ numpy
 matplotlib
 librosa
 scipy
-shutil
-sklearn.decomposition
-warnings
+scikit-learns

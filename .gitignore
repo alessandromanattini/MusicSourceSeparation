@@ -3,3 +3,8 @@ musdb18hq/
 musdb18hq_trimmed/
 .DS_Store
 best_model.pth
+best_model_bass.pth
+best_model_drums.pth
+best_model_other.pth
+best_model_vocals.pth
+images/

@@ -8,3 +8,5 @@ best_model_drums.pth
 best_model_other.pth
 best_model_vocals.pth
 images/
+songs_examples.py
+cut_audio_files.py
